@@ -1,0 +1,2 @@
+//morrendo
+game_restart();

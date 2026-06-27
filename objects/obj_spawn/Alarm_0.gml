@@ -1,0 +1,2 @@
+//permitindo spawnar
+spawn = true;
