@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"historias",
-    "path":"folders/Sprites/historias.yy",
+    "name":"historias e backgrounds",
+    "path":"folders/Sprites/historias e backgrounds.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
