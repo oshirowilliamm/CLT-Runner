@@ -1,2 +1,2 @@
 //indo pra baixo
-vspeed = 1;
+vspeed = global.itens_spd;

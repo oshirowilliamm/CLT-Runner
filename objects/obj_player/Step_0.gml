@@ -22,3 +22,6 @@ if (_left)
     //indo pra esquerda
     x = 16;
 }
+
+show_debug_message("tempo: " + string(global.tempo_spawn));
+show_debug_message("spd: " + string(global.itens_spd));

@@ -18,9 +18,8 @@ switch (_direcao)
 //spawnando item
 var _clt = instance_create_layer(_x, -16, "Instances", _item);
 
-//reiniciando alarm
-tempo = irandom_range(50, 200); //colocando tempo aleatorio
-alarm[0] = tempo;
+//reiniciando alarm com o maximo de 20 ou o tempo
+alarm[0] = max(20, global.tempo_spawn);
 
 //reiniciando variavel de controle
 spawn = false;

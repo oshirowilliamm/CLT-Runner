@@ -2,5 +2,4 @@
 spawn = false;
 
 //tempo para criar prox item
-tempo = 60;
-alarm[0] = tempo;
+alarm[0] = global.tempo_spawn;
